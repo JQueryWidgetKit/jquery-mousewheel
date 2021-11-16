@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfJQueryMouseWheel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfJQueryMouseWheel",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

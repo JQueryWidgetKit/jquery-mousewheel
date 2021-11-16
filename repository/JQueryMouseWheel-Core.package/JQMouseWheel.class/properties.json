@@ -1,0 +1,14 @@
+{
+	"category" : "JQueryMouseWheel-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JQMouseWheel",
+	"pools" : [
+		 ],
+	"super" : "JQWidget",
+	"type" : "normal" }
