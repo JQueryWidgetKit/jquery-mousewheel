@@ -1,3 +1,0 @@
-seaside
-selectorsToInclude
-  ^ #(#'jquerymousewheelminJs')
